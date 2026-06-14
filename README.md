@@ -32,6 +32,6 @@ Java Swing과 AWT를 활용하여 객체지향 프로그래밍(OOP) 기반으로
 ## 향후 개선 목표 (Future Improvements)
 
 ### 체스 특수 룰 및 게임 로직 고도화
-- [ ] **특수 룰 완벽 구현:** 캐슬링(Castling), 앙파상(En Passant), 폰 승급(Promotion) 기능 추가
-- [ ] **체크/체크메이트 시스템:** 킹이 공격받는 상황(Check)과 피할 수 없는 상태(Checkmate)를 판별하는 정밀 알고리즘 도입
-- [ ] **경로 막힘 검사(Collision Detection):** 모든 기물 이동 시 중간에 다른 기물이 있는지 판별하는 로직 완비
+ **특수 룰 완벽 구현:** 캐슬링(Castling), 앙파상(En Passant), 폰 승급(Promotion), 폰이 처음 움직일 때 ２칸 전진 기능 추가
+ **체크/체크메이트 시스템:** 킹이 공격받는 상황(Check)과 피할 수 없는 상태(Checkmate)를 판별하는 정밀 알고리즘 도입
+ **경로 막힘 검사(Collision Detection):** 모든 기물 이동 시 중간에 다른 기물이 있는지 판별하는 로직 완비
